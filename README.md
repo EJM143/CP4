@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Creative Project 4: React Application
 
 ** please refer to Canvas for the latest version of these instructions **
@@ -184,4 +184,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> b2162de (Initialize project using Create React App)
+(Initialize project using Create React App)
